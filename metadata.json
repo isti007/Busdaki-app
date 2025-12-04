@@ -1,0 +1,8 @@
+{
+  "name": "Busdaki",
+  "description": "A smart public transport companion for Chittagong providing real-time bus crowding, live location tracking, and enhanced safety features for women.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
